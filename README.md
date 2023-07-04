@@ -1,5 +1,5 @@
 # python-challenge
-Peer colloboration with Ryan Himes, Jennifer Grubb, and Juliet Hamilton. 
+Peer collaboration with Ryan Himes, Jennifer Grubb, and Juliet Hamilton. 
 
 PyBank:
 import os
